@@ -3,7 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import NavBar from "@/components/navbar";
 import { ClerkProvider } from "@clerk/nextjs";
-
+import ReactQueryClientProvider from "@/components/react-query-client-provider";
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -26,6 +26,7 @@ export default function RootLayout({
 }>) {
   return (
     <ClerkProvider>
+      <ReactQueryClientProvider>
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gradient-to-br from-saas-primary via-saas-secondary to-black`}
@@ -36,6 +37,7 @@ export default function RootLayout({
         
       </body>
     </html>
+    </ReactQueryClientProvider>
     </ClerkProvider>
   );
 }
