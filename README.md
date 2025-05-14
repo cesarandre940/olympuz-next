@@ -1,6 +1,6 @@
-# A web app that empowers users with science-backed training guidance and biomechanics insights, featuring a dashboard to track goals and progress for a more effective fitness journey
-
 # 🔱Olympuz
+A web app that empowers users with science-backed training guidance and biomechanics insights, featuring a dashboard to track goals and progress for a more effective fitness journey
+
 ![mockup2](https://github.com/user-attachments/assets/abc93bc7-579a-41ca-9656-057d13239e12)
 
 # 🏋️‍♂️ Olympuz Web App – Core Features
