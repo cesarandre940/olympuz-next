@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# A web app that empowers users with science-backed training guidance and biomechanics insights, featuring a dashboard to track goals and progress for a more effective fitness journey
 
-## Getting Started
+# 🔱Olympuz
+![mockup2](https://github.com/user-attachments/assets/abc93bc7-579a-41ca-9656-057d13239e12)
 
-First, run the development server:
+# 🏋️‍♂️ Olympuz Web App – Core Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# 1. Personalized Training Guidance
+* Science-backed monthly workout plans tailored to user goals
+* Adaptive progression based on performance and feedback
+* Emphasis on biomechanics for injury prevention and optimal results
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# 2. Workout Logger
+* Log exercises with sets, reps, weights, and notes
+* Track completed and missed workouts
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# 3. Biomechanics Insights
+* Analyze form, movement patterns, and muscular engagement
+* Personalized tips to improve posture and efficiency
+* Potential integration with wearables or motion sensors (optional/advanced)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# 4. Progress & Goal Tracking Dashboard
+* Visualize goals: strength, endurance, weight, mobility, etc.
+* Weekly, monthly, and yearly progress stats
+* Achievements and milestones system for motivation
 
-## Learn More
+# 5. User Profile & Insights
+* Centralized profile with fitness goals, body metrics, and workout history
+* Insights like muscle group engagement trends, training consistency, PRs
+* Option to compare past training cycles
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# 6. Notifications & Reminders
+* Smart reminders for training, rest, and recovery
+* Weekly summary emails or in-app reports
